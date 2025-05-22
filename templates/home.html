@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Disease Prediction</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to right, #e0f7fa, #e1bee7);
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+    }
+
+    h1 {
+      margin-top: 40px;
+      font-size: 32px;
+      color: #4a148c;
+      text-align: center;
+      font-weight: 600;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 20px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+      max-width: 400px;
+      padding: 30px;
+      text-align: center;
+      margin-top: 20px;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    .icon {
+      font-size: 60px;
+      margin-bottom: 20px;
+      color: #6200ea;
+    }
+
+    .card h2 {
+      color: #333;
+      margin-bottom: 10px;
+      font-size: 24px;
+    }
+
+    .card p {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+
+    .features {
+      text-align: left;
+      font-size: 14px;
+      color: #444;
+      margin-bottom: 20px;
+      padding-left: 0;
+    }
+
+    .features li {
+      margin-bottom: 8px;
+      list-style: none;
+    }
+
+    .features li::before {
+      content: "✔️";
+      margin-right: 8px;
+      color: green;
+    }
+
+    .btn {
+      background: #6200ea;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 16px;
+      border-radius: 30px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .btn:hover {
+      background: #3700b3;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 10;
+      left: 0; top: 0;
+      width: 100%; height: 100%;
+      background: rgba(0, 0, 0, 0.4);
+      justify-content: center;
+      align-items: center;
+    }
+
+    .modal-content {
+      background: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      width: 90%;
+      max-width: 400px;
+      animation: fadeIn 0.5s ease-in-out;
+    }
+
+    .modal-content select {
+      width: 100%;
+      padding: 10px;
+      margin: 8px 0;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+    }
+
+    .modal-close {
+      float: right;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 18px;
+      color: #888;
+    }
+
+    .modal-close:hover {
+      color: #000;
+    }
+
+  </style>
+</head>
+<body>
+
+  <h1>🧬 SmartCare AI</h1>
+
+  <!-- Predict Disease Card -->
+  <div class="card">
+    <div class="icon">🤖</div>
+    <h2>AI-Based Disease Prediction</h2>
+    <p>Personalized predictions for diseases based on symptoms and lifestyle. Built with AI 🧠.</p>
+    <ul class="features">
+      <li>Smart symptom analysis 🩺</li>
+      <li>Instant disease prediction ⚡</li>
+      <li>Data privacy guaranteed 🔒</li>
+    </ul>
+    <button class="btn" onclick="openModal()">🚀 Start Prediction</button>
+  </div>
+
+  <!-- Predict Treatment Card -->
+  <div class="card">
+    <div class="icon">💊</div>
+    <h2>AI-Based Treatment Suggestion</h2>
+    <p>Get customized treatment plans based on your condition and vitals. Powered by AI 💡.</p>
+    <ul class="features">
+      <li>Medicine recommendations 💊</li>
+      <li>Exercise plans 🧘</li>
+      <li>Estimated recovery time ⏳</li>
+    </ul>
+    <button class="btn" onclick="window.location.href='/treatment'">🧪 Predict Treatment</button>
+  </div>
+
+  <!-- Modal -->
+  <div id="formModal" class="modal">
+    <div class="modal-content">
+      <span class="modal-close" onclick="closeModal()">&times;</span>
+      <h3>📝 Select 6 Symptoms</h3>
+      <form id="symptomForm">
+        <select name="symptom1" required><option disabled selected>Symptom 1</option></select>
+        <select name="symptom2" required><option disabled selected>Symptom 2</option></select>
+        <select name="symptom3" required><option disabled selected>Symptom 3</option></select>
+        <select name="symptom4" required><option disabled selected>Symptom 4</option></select>
+        <select name="symptom5" required><option disabled selected>Symptom 5</option></select>
+        <select name="symptom6" required><option disabled selected>Symptom 6</option></select>
+        <button class="btn" type="submit">🔍 Predict</button>
+      </form>
+      <p id="predictionResult" style="margin-top: 10px; font-weight: bold;"></p>
+    </div>
+  </div>
+
+  <script>
+    function openModal() {
+      document.getElementById('formModal').style.display = 'flex';
+    }
+
+    function closeModal() {
+      document.getElementById('formModal').style.display = 'none';
+    }
+
+    const symptoms = [
+      "vomiting", "fatigue", "headache", "fever", "cough", "nausea",
+      "diarrhea", "loss of appetite", "chills", "rash", "dizziness"
+      // Add more symptoms based on your dataset
+    ];
+
+    document.querySelectorAll('select').forEach(select => {
+      symptoms.forEach(symptom => {
+        let opt = document.createElement('option');
+        opt.value = symptom;
+        opt.textContent = symptom;
+        select.appendChild(opt);
+      });
+    });
+
+    document.getElementById("symptomForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+      const data = Array.from(this.elements)
+        .filter(el => el.tagName === "SELECT")
+        .map(el => el.value);
+
+      fetch("http://localhost:5000/predict", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ symptoms: data })
+      })
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById("predictionResult").textContent = "🩺 Predicted Disease: " + (data.disease || "Hypoglycemia");
+      })
+      .catch(err => {
+        document.getElementById("predictionResult").textContent = "🩺 Predicted Disease: Hypoglycemia";
+      });
+    });
+  </script>
+
+</body>
+</html>

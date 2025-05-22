@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Treatment Result</title>
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      max-width: 900px;
+      margin: 30px auto;
+      background: #f0f4f8;
+      color: #2c3e50;
+      padding: 0 20px 40px;
+    }
+    h1 {
+      color: #1a202c;
+      text-align: center;
+      margin-bottom: 1rem;
+      letter-spacing: 2px;
+      font-weight: 700;
+      text-transform: uppercase;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+    }
+    .summary {
+      background: white;
+      padding: 25px 35px;
+      border-radius: 10px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+      font-size: 1.15rem;
+      letter-spacing: 0.02em;
+    }
+    .summary p {
+      margin: 0.7em 0;
+    }
+    .section-title {
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      color: #34495e;
+      font-weight: 700;
+      font-size: 1.4rem;
+      border-bottom: 3px solid #3498db;
+      padding-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    ul.checklist {
+      list-style: none;
+      padding-left: 0;
+      margin: 0 0 20px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+    ul.checklist li {
+      background: #eaf3fc;
+      border-radius: 8px;
+      padding: 10px 14px;
+      cursor: pointer;
+      user-select: none;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      box-shadow: 0 3px 7px rgba(52, 152, 219, 0.15);
+      min-width: 160px;
+      transition: background 0.3s ease, box-shadow 0.3s ease;
+    }
+    ul.checklist li:hover {
+      background: #d0e4fd;
+      box-shadow: 0 6px 15px rgba(52, 152, 219, 0.3);
+    }
+    ul.checklist input[type="checkbox"] {
+      transform: scale(1.3);
+      cursor: pointer;
+      margin: 0;
+    }
+    label {
+      cursor: pointer;
+      flex: 1;
+    }
+    /* Icon styling */
+    .icon-med {
+      color: #27ae60; /* green */
+      font-size: 1.3rem;
+      min-width: 22px;
+      text-align: center;
+    }
+    .icon-ex {
+      color: #e67e22; /* orange */
+      font-size: 1.3rem;
+      min-width: 22px;
+      text-align: center;
+    }
+    .button {
+      display: inline-flex;
+      align-items: center;
+      background-color: #3498db;
+      color: white;
+      border: none;
+      padding: 12px 25px;
+      font-size: 17px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      margin: 20px 0 35px 0;
+      font-weight: 600;
+      gap: 10px;
+      box-shadow: 0 5px 15px rgba(52, 152, 219, 0.3);
+      user-select: none;
+    }
+    .button:hover {
+      background-color: #2c81c8;
+      box-shadow: 0 8px 20px rgba(41, 128, 185, 0.5);
+    }
+    #treatment-plan {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+      padding: 25px 30px;
+      display: none;
+      margin-bottom: 40px;
+    }
+    .day {
+      border: 2px solid #dce6f1;
+      padding: 18px 22px;
+      border-radius: 10px;
+      margin-bottom: 22px;
+      background: #f7fbff;
+      box-shadow: inset 0 1px 4px rgba(52, 152, 219, 0.1);
+    }
+    .day h3 {
+      margin: 0 0 12px 0;
+      font-weight: 700;
+      font-size: 1.25rem;
+      color: #2c3e50;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>
+    <i class="fa-solid fa-heart-pulse" style="color:#e74c3c"></i>
+    Treatment Plan Result
+  </h1>
+
+  <section class="summary">
+    <p><strong><i class="fa-solid fa-heart"></i> Blood Pressure Category:</strong> {{ treatment.BP_Category }}</p>
+    <p><strong><i class="fa-solid fa-clock"></i> Estimated Recovery Days:</strong> {{ treatment.Recovery_Days }}</p>
+  </section>
+
+  <section>
+    <h2 class="section-title">
+      <i class="fa-solid fa-pills"></i> Medicines
+    </h2>
+    <ul class="checklist">
+      {% for med in treatment.Medicines %}
+      <li>
+        <input type="checkbox" id="med{{ loop.index }}" checked />
+        <label for="med{{ loop.index }}">
+          <i class="fa-solid fa-capsules icon-med"></i> {{ med }}
+        </label>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">
+      <i class="fa-solid fa-dumbbell"></i> Exercises
+    </h2>
+    <ul class="checklist">
+      {% for ex in treatment.Exercises %}
+      <li>
+        <input type="checkbox" id="ex{{ loop.index }}" checked />
+        <label for="ex{{ loop.index }}">
+          <i class="fa-solid fa-running icon-ex"></i> {{ ex }}
+        </label>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <button id="toggle-plan-btn" class="button">
+    <i class="fa-solid fa-list-check"></i> Show/Hide Treatment Plan
+  </button>
+
+  <div id="treatment-plan">
+    <div id="days-container">
+      <!-- Dynamic day blocks will appear here -->
+    </div>
+    <button id="add-day-btn" class="button" style="background-color:#27ae60;">
+      <i class="fa-solid fa-calendar-plus"></i> Add Day
+    </button>
+  </div>
+
+  <script>
+    const toggleBtn = document.getElementById('toggle-plan-btn');
+    const planDiv = document.getElementById('treatment-plan');
+    const addDayBtn = document.getElementById('add-day-btn');
+    const daysContainer = document.getElementById('days-container');
+    let dayCount = 0;
+
+    toggleBtn.addEventListener('click', () => {
+      if (planDiv.style.display === 'none' || planDiv.style.display === '') {
+        planDiv.style.display = 'block';
+      } else {
+        planDiv.style.display = 'none';
+      }
+    });
+
+    addDayBtn.addEventListener('click', () => {
+      dayCount++;
+      const dayDiv = document.createElement('div');
+      dayDiv.classList.add('day');
+
+      // Build medicine list html
+      let medsHTML = `<ul class="checklist">`;
+      {% for med in treatment.Medicines %}
+        medsHTML += `
+          <li>
+            <input type="checkbox" id="day${dayCount}med{{ loop.index }}" checked />
+            <label for="day${dayCount}med{{ loop.index }}">
+              <i class="fa-solid fa-capsules icon-med"></i> {{ med }}
+            </label>
+          </li>`;
+      {% endfor %}
+      medsHTML += `</ul>`;
+
+      // Build exercises list html
+      let exsHTML = `<ul class="checklist">`;
+      {% for ex in treatment.Exercises %}
+        exsHTML += `
+          <li>
+            <input type="checkbox" id="day${dayCount}ex{{ loop.index }}" checked />
+            <label for="day${dayCount}ex{{ loop.index }}">
+              <i class="fa-solid fa-running icon-ex"></i> {{ ex }}
+            </label>
+          </li>`;
+      {% endfor %}
+      exsHTML += `</ul>`;
+
+      dayDiv.innerHTML = `
+        <h3><i class="fa-solid fa-calendar-day"></i> Day ${dayCount}</h3>
+        <h4><i class="fa-solid fa-pills icon-med"></i> Medicines</h4>
+        ${medsHTML}
+        <h4><i class="fa-solid fa-dumbbell icon-ex"></i> Exercises</h4>
+        ${exsHTML}
+      `;
+
+      daysContainer.appendChild(dayDiv);
+    });
+  </script>
+</body>
+</html>
