@@ -1,0 +1,411 @@
+Disease,Past_History,Age,BP_Level,Heart_Beats,Oxygen_Level,Medicine_1,Medicine_2,Medicine_3,Medicine_4,,Recovery_Days,Exercise 1,Exercise 2,Exercise 3
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
+Fungal infection,Hypertension,12,Normal,119,90,Azithromycin,Amlodipine,Amoxicillin,Paracetamol,,19,Anulom Vilom,Tadasana,Brisk Walking
+Allergy,Heart Disease,43,Low,101,90,Metformin,Azithromycin,Ciprofloxacin,Ibuprofen,,12,Kapalbhati,Vrikshasana,Jogging
+GERD,Diabetes,43,Normal,78,97,Atorvastatin,Amlodipine,Amlodipine,Omeprazole,,19,Bhramari Pranayama,Bhujangasana,Cycling
+Chronic cholestasis,Heart Disease,26,High,108,97,Paracetamol,Omeprazole,Amoxicillin,Ibuprofen,,22,Sheetali,Trikonasana,Jumping Jacks
+Drug Reaction,None,18,Normal,81,94,Azithromycin,Omeprazole,Metformin,Lisinopril,,22,Ujjayi,Paschimottanasana,High Knees
+Peptic ulcer diseae,Diabetes,65,Low,106,98,Ibuprofen,Amlodipine,Azithromycin,Ibuprofen,,6,Nadi Shodhana,Balasana,Stair Climbing
+AIDS,Hypertension,22,Normal,85,85,Atorvastatin,Ibuprofen,Amlodipine,Ciprofloxacin,,11,Anulom Vilom,Tadasana,Brisk Walking
+Diabetes,None,14,Normal,78,96,Paracetamol,Amoxicillin,Ibuprofen,Ciprofloxacin,,13,Kapalbhati,Vrikshasana,Jogging
+Gastroenteritis,Heart Disease,43,High,95,99,Omeprazole,Ciprofloxacin,Metformin,Metformin,,22,Bhramari Pranayama,Bhujangasana,Cycling
+Bronchial Asthma,Heart Disease,79,Normal,100,89,Azithromycin,Paracetamol,Atorvastatin,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Hypertension,Heart Disease,16,Normal,100,96,Atorvastatin,Atorvastatin,Lisinopril,Azithromycin,,29,Ujjayi,Paschimottanasana,High Knees
+Migraine,Diabetes,21,Normal,91,98,Lisinopril,Ciprofloxacin,Lisinopril,Atorvastatin,,10,Nadi Shodhana,Balasana,Stair Climbing
+Cervical spondylosis,Heart Disease,45,Normal,104,99,Ciprofloxacin,Amlodipine,Ibuprofen,Omeprazole,,8,Anulom Vilom,Tadasana,Brisk Walking
+Paralysis (brain hemorrhage),Hypertension,58,Normal,90,99,Amlodipine,Lisinopril,Atorvastatin,Lisinopril,,13,Kapalbhati,Vrikshasana,Jogging
+Jaundice,None,65,High,94,100,Paracetamol,Azithromycin,Metformin,Lisinopril,,18,Bhramari Pranayama,Bhujangasana,Cycling
+Malaria,Asthma,71,Normal,66,97,Ibuprofen,Ciprofloxacin,Ibuprofen,Metformin,,21,Sheetali,Trikonasana,Jumping Jacks
+Chicken pox,None,25,High,65,86,Omeprazole,Lisinopril,Ibuprofen,Amoxicillin,,7,Ujjayi,Paschimottanasana,High Knees
+Dengue,Heart Disease,52,Low,106,92,Ibuprofen,Azithromycin,Metformin,Azithromycin,,19,Nadi Shodhana,Balasana,Stair Climbing
+Typhoid,Diabetes,63,High,86,90,Lisinopril,Amlodipine,Amlodipine,Ciprofloxacin,,9,Anulom Vilom,Tadasana,Brisk Walking
+hepatitis A,Heart Disease,14,High,64,88,Paracetamol,Ciprofloxacin,Atorvastatin,Amlodipine,,5,Kapalbhati,Vrikshasana,Jogging
+Hepatitis B,Hypertension,76,Normal,97,89,Metformin,Lisinopril,Lisinopril,Metformin,,6,Bhramari Pranayama,Bhujangasana,Cycling
+Hepatitis C,Diabetes,63,High,67,87,Lisinopril,Metformin,Ciprofloxacin,Amoxicillin,,4,Sheetali,Trikonasana,Jumping Jacks
+Hepatitis D,Hypertension,74,Normal,105,94,Amlodipine,Lisinopril,Lisinopril,Metformin,,20,Ujjayi,Paschimottanasana,High Knees
+Hepatitis E,Hypertension,20,Low,105,88,Amoxicillin,Azithromycin,Azithromycin,Amoxicillin,,17,Nadi Shodhana,Balasana,Stair Climbing
+Alcoholic hepatitis,Heart Disease,61,Low,117,89,Amoxicillin,Paracetamol,Amoxicillin,Omeprazole,,15,Anulom Vilom,Tadasana,Brisk Walking
+Tuberculosis,Heart Disease,14,Low,91,86,Metformin,Paracetamol,Paracetamol,Metformin,,25,Kapalbhati,Vrikshasana,Jogging
+Common Cold,Hypertension,42,Low,63,98,Ibuprofen,Paracetamol,Paracetamol,Metformin,,5,Bhramari Pranayama,Bhujangasana,Cycling
+Pneumonia,None,24,Low,86,90,Omeprazole,Amlodipine,Metformin,Atorvastatin,,12,Sheetali,Trikonasana,Jumping Jacks
+Dimorphic hemmorhoids(piles),Heart Disease,51,High,107,85,Ibuprofen,Atorvastatin,Amoxicillin,Amoxicillin,,5,Ujjayi,Paschimottanasana,High Knees
+Heart attack,Asthma,80,Low,118,95,Ibuprofen,Atorvastatin,Amoxicillin,Lisinopril,,17,Nadi Shodhana,Balasana,Stair Climbing
+Varicose veins,None,55,High,111,93,Ibuprofen,Atorvastatin,Azithromycin,Amoxicillin,,3,Anulom Vilom,Tadasana,Brisk Walking
+Hypothyroidism,Diabetes,62,High,117,95,Azithromycin,Omeprazole,Ciprofloxacin,Paracetamol,,8,Kapalbhati,Vrikshasana,Jogging
+Hyperthyroidism,Heart Disease,33,Low,62,95,Amlodipine,Metformin,Amlodipine,Ibuprofen,,16,Bhramari Pranayama,Bhujangasana,Cycling
+Hypoglycemia,Asthma,71,Normal,95,92,Paracetamol,Ibuprofen,Amlodipine,Azithromycin,,10,Sheetali,Trikonasana,Jumping Jacks
+Osteoarthristis,Heart Disease,26,High,114,86,Metformin,Paracetamol,Ciprofloxacin,Amoxicillin,,29,Ujjayi,Paschimottanasana,High Knees
+Arthritis,Heart Disease,36,Normal,111,93,Metformin,Ibuprofen,Amoxicillin,Metformin,,14,Nadi Shodhana,Balasana,Stair Climbing
+(vertigo) Paroymsal Positional Vertigo,None,11,Low,109,93,Atorvastatin,Lisinopril,Ibuprofen,Paracetamol,,16,Anulom Vilom,Tadasana,Brisk Walking
+Acne,Asthma,66,Low,73,89,Lisinopril,Metformin,Ciprofloxacin,Metformin,,10,Kapalbhati,Vrikshasana,Jogging
+Urinary tract infection,Asthma,21,Normal,109,96,Omeprazole,Azithromycin,Amoxicillin,Atorvastatin,,10,Bhramari Pranayama,Bhujangasana,Cycling
+Psoriasis,Asthma,71,Normal,106,85,Paracetamol,Atorvastatin,Metformin,Ibuprofen,,4,Sheetali,Trikonasana,Jumping Jacks
+Impetigo,Hypertension,28,High,64,87,Ciprofloxacin,Azithromycin,Ibuprofen,Metformin,,30,Ujjayi,Paschimottanasana,High Knees
